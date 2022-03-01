@@ -116,7 +116,7 @@ func main() {
 				if method {
 					fmt.Printf("line %4d method found: %s \n", ilin+1, string(buf[opst: i]))
 				} else {
-					fmt.Printf("ine: %4d funk found: %s \n", ilin+1, string(buf[ist: i]))
+					fmt.Printf("line: %4d funk found: %s \n", ilin+1, string(buf[ist: i]))
 				}
 				ist =0
 			}
