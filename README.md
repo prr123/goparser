@@ -9,8 +9,8 @@ usage: goparser inputfile
 output:   
   >>file size is 2493!    
   >>out file name: goparser.gdat    
-  >>ine:   17 funk found: func fatErr(fs string, msg string, err error)    
-  ine:   26 funk found: func main()    
+  >>line:   17 funk found: func fatErr(fs string, msg string, err error)    
+  line:   26 funk found: func main()    
   total lines: 130    
   success!   
   
