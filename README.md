@@ -1,4 +1,4 @@
-# gofuncparser
+# goparser
 parser of go files to identify functions and methods in a go source file!
 
 The purpose of the program is to list all functions and methods with their line locations in a file.
